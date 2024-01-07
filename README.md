@@ -1,3 +1,3 @@
 # Demo
 
-Hello, gitub!!!
+Hello, github!!!
