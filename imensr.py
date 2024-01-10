@@ -1,7 +1,7 @@
 import cv2
 
 # Load the image
-image_path = r'g:\aks\aks\Screenshot from 2024-01-01 13-32-34.png'
+image_path = r"demo-repo\images\paris-street-musicians.jpg"
 image = cv2.imread(image_path)
 
 # Display the image
